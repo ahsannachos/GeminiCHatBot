@@ -25,3 +25,15 @@ cd GeminiChatBot`
 `python GeminiChatBot.py`  
 ## Exit the Chat
 Type `exit`, `quit`, or `bye` at any time to end the session.
+
+## Config Changes
+This is the configurations of the model:
+`generation_config = {
+    "temperature": 0,
+    "top_p": 0.95,
+    "top_k": 64,
+    "max_output_tokens": 8192,
+    "response_mime_type": "text/plain"`   
+      
+  Tweak the figures as per your needs.
+    
