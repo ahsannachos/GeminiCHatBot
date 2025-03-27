@@ -1,6 +1,6 @@
 # GeminiChatBot
 A lightweight terminal-based chatbot powered by Google's Gemini 2.0 Flash model. This bot interacts through natural language using Generative AI and provides concise responses.
-##Features
+## Features
 -Uses Gemini 2.0 Flash via Google's Generative AI API.
 -Custom safety settings and generation configurations.
 -Supports continuous chat with maintained history.
